@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GaussWhy
 - 👀 I’m interested in Front End web development
 - 🌱 I’m currently learning HTML , CSS, and Javascript
-- 💞️ I’m looking to collaborate on portofolio worthy projects 
+- 💞️ I’m working on projects to add to my portfolio
 - 📫 How to reach me : Message me for my contact info 
 
 <!---
